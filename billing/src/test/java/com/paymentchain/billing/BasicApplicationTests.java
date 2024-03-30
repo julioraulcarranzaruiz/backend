@@ -29,8 +29,8 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 /**
- * Prueba
- * @author sotobotero This set of test allow check the behavior of the web layer
+ * Prueba 
+ * @author jcarranza This set of test allow check the behavior of the web layer
  * application listening like as it would do in production, sending and http
  * requests and assert if method was called and http status is the expected. We
  * are using spring MVC test framework to perfom integration tests
